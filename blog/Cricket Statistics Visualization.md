@@ -90,8 +90,7 @@ def fetch_data_from_api():
 Open the [dataflow](https://console.cloud.google.com/dataflow/) in the console.
 Click on the button "Create job from the template" as presented in the image below.
 
-![images](images/1.cricket_stat/create job in dataflow.png)
-![imassges](blog/images/1.cricket_stat/create job in dataflow.png)
+![blog/images/1.cricket_stat/create job in dataflow.png](https://github.com/leonasting/random_blog/blob/main/blog/images/1.cricket_stat/create%20job%20in%20dataflow.png)
 ![[create job in dataflow.png]]
 (Mandatory) Enable the the Dataflow API
 ![[Data Flow API image.png]]
